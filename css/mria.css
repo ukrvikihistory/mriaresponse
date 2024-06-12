@@ -1,0 +1,948 @@
+.xmara1
+{
+  height:50px;
+  width:100px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:100px;
+  left:800px;
+}
+.xmara2
+{
+  height:50px;
+  width:50px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:85px;
+  left:845px;
+}
+.xmara3
+{
+  height:50px;
+  width:50px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:85px;
+  left:810px;
+}
+.xmara4
+{
+  height:50px;
+  width:100px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:100px;
+  left:400px;
+}
+.xmara5
+{
+  height:50px;
+  width:50px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:85px;
+  left:445px;
+}
+.xmara6
+{
+  height:50px;
+  width:50px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:85px;
+  left:410px;
+}
+.fon
+{
+  height:10000px;
+  width:10000px;
+  background:#6648f4;
+  z-index:-9;
+  position:absolute;
+  top:-10px;
+  left:-10px;
+}
+.xata1
+{
+  height:300px;
+  width:200px;
+  background:gray;
+  position:absolute;
+  top:680px;
+  left:100px;
+}
+.vicno1
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+  left:10px;
+  animation:LOL 5s infinite;
+}
+.vicno2
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+  left:75px;
+   animation:LOL 5s infinite;
+}
+.vicno3 
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+  left:140px;
+   animation:LOL 5s infinite;
+}
+.vicno4
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+   animation:LOL 5s infinite;
+  top:60px;
+  left:10px;
+}
+.vicno5
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:60px;
+  left:75px;
+   animation:LOL 5s infinite;
+}
+.vicno6 
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:60px;
+  left:140px;
+   animation:LOL 5s infinite;
+}
+.vicno7
+{
+ width:40px;
+  height:40px;
+  background:blue;
+  position:absolute;
+  top:150px;
+  left:10px;
+   animation:LOL2 5s infinite;
+}
+.vicno8
+{
+ width:40px;
+  height:40px;
+  background:blue;
+  position:absolute;
+  top:150px;
+  left:75px;
+   animation:LOL2 5s infinite;
+}
+.vicno9 
+{
+ width:40px;
+  height:40px;
+  background:blue;
+  position:absolute;
+  top:150px;
+  left:140px;
+   animation:LOL2 5s infinite;
+}
+
+.vicno10
+{
+ width:40px;
+  height:40px;
+  background:blue;
+  position:absolute;
+  top:200px;
+  left:10px;
+   animation:LOL2 5s infinite;
+}
+.vicno11
+{
+ width:40px;
+  height:40px;
+  background:blue;
+  position:absolute;
+  top:200px;
+  left:75px;
+   animation:LOL2 5s infinite;
+}
+.vicno12
+{
+ width:40px;
+  height:40px;
+  background:blue;
+  position:absolute;
+  top:200px;
+  left:140px;
+   animation:LOL2 5s infinite;
+}.xata2
+{
+  height:300px;
+  width:200px;
+  background:gray;
+  position:absolute;
+  top:680px;
+  left:800px;
+}
+.vicno13
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+  left:10px;
+   animation:LOL3 5s infinite;
+  
+}
+.vicno14
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+   animation:LOL3 5s infinite;
+  left:75px;
+}
+.vicno15 
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+  left:140px;
+   animation:LOL3 5s infinite;
+  
+}
+.vicno16
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:60px;
+  left:10px;
+   animation:LOL3 5s infinite;
+  
+}
+.vicno17
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:60px;
+  left:75px;
+   animation:LOL3 5s infinite;
+  
+}
+.vicno18
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:60px;
+  left:140px;
+   animation:LOL3 5s infinite;
+  
+}
+.vicno19
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:150px;
+  left:10px;
+   animation:LOL4 5s infinite;
+}
+.vicno20
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:150px;
+  left:75px;
+   animation:LOL4 5s infinite;
+}
+.vicno21
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:150px;
+  left:140px;
+   animation:LOL4 5s infinite;
+}
+
+.vicno22
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:200px;
+  left:10px;
+   animation:LOL4 5s infinite;
+}
+.vicno23
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:200px;
+  left:75px;
+   animation:LOL4 5s infinite;
+}
+.vicno24
+{
+ width:40px;
+  height:40px;
+  background:yellow;
+  position:absolute;
+  top:200px;
+  left:140px;
+   animation:LOL4 5s infinite;
+}
+.mria1
+{
+  height:300px;
+  width:800px;
+  background:white;
+  position:absolute;
+  top:250px;
+  left:170px;
+  border-radius:20% 50% 30% 90%;
+  overflow:hidden;
+}
+.mria2
+{
+  height:210px;
+  width:300px;
+  background:white;
+  position:absolute;
+  top:340px;
+  left:750px;
+  border-radius:20% 50% 50% 20%;
+  overflow:hidden;
+}
+.mria3
+{
+  height:;
+  width:;
+  background:white;
+}
+.mria4
+{
+  width:45px;
+  height:35px;
+  background:#2962ff;
+  position:absolute;
+  top:310px;
+  left:840px;
+  border-radius:20%;
+}
+.mria5
+{
+  width:35px;
+  height:35px;
+  background:#2962ff;
+  position:absolute;
+  top:310px;
+  left:800px;
+  border-radius:50px 10px 10px 50px;
+}.mria6
+{
+  width:35px;
+  height:35px;
+  background:#2962ff;
+  position:absolute;
+  top:310px;
+  left:890px;
+  border-radius:10px 50px 50px 10px;
+}
+.mria7
+{
+  width:700px;
+  height:30px;
+  background:blue;
+  position:absolute;
+  top:220px;
+  left:100px;
+  z-index:1;
+}
+.mria8
+{
+   width:700px;
+  height:30px;
+  background:yellow;
+  position:absolute;
+  top:250px;
+  left:200px;
+  z-index:1;
+}
+.mria9
+{
+  width:200px;
+  height:30px;
+  background:blue;
+  position:absolute;
+  top:130px;
+  left:100px;
+}
+.mria10
+{
+  width:200px;
+  height:30px;
+  background:yellow;
+  position:absolute;
+  top:160px;
+  left:100px;
+  
+}
+.mria11
+{
+  width:20px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:400px;
+  left:1000px;
+  border-radius:50%;
+  animation:LOL 5s infinite
+}
+.mria12
+{
+  width:20px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  border-radius:50%;
+  top:400px;
+  left:980px;
+   animation:LOL2 5s infinite;
+}
+.mria13
+{
+  width:20px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:400px;
+  left:900px;
+  border-radius:50%;
+  animation:LOL 5s infinite
+}
+.mria14
+{
+  width:20px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  border-radius:50%;
+  top:400px;
+  left:880px;
+   animation:LOL2 5s infinite;
+}
+@keyframes LOL{
+from{
+  background: yellow;
+}
+to{
+  background: blue;
+}
+}
+@keyframes LOL2{
+from{
+  background: blue;
+}
+to{
+  background: yellow;
+}
+}
+@keyframes LOL3{
+from{
+  background: black;
+}
+to{
+  background: red;
+}
+}
+@keyframes LOL4{
+from{
+  background: red;
+}
+to{
+  background: black;
+}
+}
+.mria15
+{
+  height:350px;
+  width:150px;
+  background:white;
+  position:absolute;
+  border-radius:10% 10% 50% 50%;
+  z-index:2;
+  border:1px solid black;
+  top:400px;
+  left:600px;
+  transform:rotate(15deg);
+  overflow:hidden;
+}
+.mria16
+{
+  height:350px;
+  width:150px;
+  background:white;
+  position:absolute;
+  border-radius:10% 10% 50% 50%;
+  z-index:-1;
+  border:1px solid black;
+  top:80px;
+  left:600px;
+  transform:rotate(150deg);
+   overflow:hidden;
+}
+.mria17
+{
+  width:110px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  top:295px;
+  left:20px;
+  z-index:4;
+}
+.mria18
+{
+  width:120px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:275px;
+  left:15px;
+  z-index:4;
+}
+.mria23
+{
+  width:200px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:280px;
+  left:5px;
+  z-index:2;
+}
+.mria24
+{
+  width:220px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  top:300px;
+  left:5px;
+  z-index:2;
+}
+.mria20
+{
+  width:20px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  border-radius:50%;
+  top:200px;
+  left:710px;
+   animation:LOL 5s infinite;
+}
+.mria21
+{
+  width:20px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  border-radius:50%;
+  top:220px;
+  left:720px;
+   animation:LOL2 5s infinite;
+}
+.mria22
+{
+  height:20px;
+  width:20px;
+  background:yellow;
+  position:absolute;
+  border-radius:50%;
+  top:600px;
+  left:720px;
+  z-index:3;
+  animation:LOL 5s infinite;
+}
+.mria25
+{
+  height:20px;
+  width:20px;
+  background:blue;
+  position:absolute;
+  border-radius:50%;
+  top:570px;
+  left:730px;
+  z-index:3;
+  animation:LOL2 5s infinite;
+}
+.mria26
+{
+  height:20px;
+  width:20px;
+  background:blue;
+  position:absolute;
+  border-radius:50%;
+  top:540px;
+  left:739px;
+  z-index:3;
+  animation:LOL2 5s infinite;
+}
+.mria27
+{
+  width:350px;
+  height:150px;
+  background:white;
+  position:absolute;
+  top:200px;
+  left:90px;
+  border-radius:50%;
+  transform:rotate(130deg);
+  border:1px solid black;
+  overflow:hidden;
+}
+.mria28
+{
+  height:280px;
+  width:180px;
+  background:white;
+  position:absolute;
+  top:20px;
+  left:172px;
+  border-radius:10% 90% 10% 10%;
+  z-index:1;
+  border:1px solid black;
+   overflow:hidden;
+}
+.mria30
+{
+  width:300px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  top:150px;
+  left:-50px;
+  transform:rotate(50deg);
+  
+}
+.mria31
+{
+  width:300px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:120px;
+  left:-50px;
+  transform:rotate(50deg);
+  
+}
+.mria32
+{
+  width:300px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  top:150px;
+  left:-50px;
+  transform:rotate(50deg);
+  
+}
+.mria33
+{
+  width:300px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:10px;
+  left:90px;
+  transform:rotate(50deg);
+  
+}
+.mria34
+{
+  width:300px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  top:10px;
+  left:65px;
+  transform:rotate(50deg);
+}
+.mria35
+{
+  width:300px;
+  height:20px;
+  background:yellow;
+  position:absolute;
+  top:220px;
+  left:-30px;
+}
+.mria36
+{
+  width:300px;
+  height:20px;
+  background:blue;
+  position:absolute;
+  top:200px;
+  left:-30px;
+}
+.prapor1
+{
+  width:10px;
+  height:130px;
+  background:gray;
+  position:absolute;
+  top:160px;
+  left:803px;
+}
+.prapor2
+{
+  width:30px;
+  height:20px;
+  background:gray;
+  position:absolute;
+  top:280px;
+  left:793px;
+  border-radius:50%;
+}
+.prapor3
+{
+  width:30px;
+  height:20px;
+  background:gray;
+  position:absolute;
+  top:150px;
+  left:793px;
+  border-radius:50%;
+}
+.prapor4
+{
+  width:50px;
+  height:30px;
+  background:blue;
+  position:absolute;
+  top:170px;
+  left:813px;
+}
+.prapor5
+{
+  width:50px;
+  height:30px;
+  background:yellow;
+  position:absolute;
+  top:200px;
+  left:813px;
+}
+.prapor6
+{
+  width:50px;
+  height:30px;
+  background:darkblue;
+  position:absolute;
+  top:180px;
+  left:863px;
+}
+.prapor7
+{
+  width:50px;
+  height:30px;
+  background:#fdd835;
+  position:absolute;
+  top:210px;
+  left:863px;
+}
+.moon
+{
+ width:300px;
+  height:300px;
+  background:lightgray;
+  position:absolute;
+  border-radius:50%;
+  top:10px;
+  left:1140px;
+  box-shadow: inset 10px 10px 10px 10px gray;
+}
+.moon1
+{
+  width:50px;
+  height:50px;
+  background:#9e9e9e;
+  position:absolute;
+  top:40px;
+  left:70px;
+  border-radius:50%; 
+  box-shadow: inset 10px 10px 10px 10px gray;
+}
+.moon2
+{
+  width:80px;
+  height:80px;
+  background:#9e9e9e;
+  position:absolute;
+  top:140px;
+  left:120px;
+  border-radius:50%; 
+  box-shadow: inset 10px 10px 10px 10px gray;
+}
+.moon3
+{
+  width:250px;
+  height:250px;
+  background:#6648f4;
+  position:absolute;
+  border-radius:50%;
+  top:70px;
+  left:1050px;
+}
+.moon4
+{
+    width:70px;
+  height:70px;
+  background:#9e9e9e;
+  position:absolute;
+  top:70px;
+  left:170px;
+  border-radius:50%; 
+  box-shadow: inset 10px 10px 10px 10px gray;
+}
+.star
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:180px;
+  left:450px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star1
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:580px;
+  left:450px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star2
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:530px;
+  left:200px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star3
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:520px;
+  left:1250px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star4
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:780px;
+  left:380px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star5
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:780px;
+  left:1150px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star6
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:60px;
+  left:750px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star7
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:180px;
+  left:1150px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
+.star8
+{
+  width:15px;
+  height:15px;
+  background:white;
+  position:absolute;
+  border-radius:50%;
+  top:280px;
+  left:50px;
+  box-shadow: inset 2px 1px 1px 2px #b2ebf2;
+}
